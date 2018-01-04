@@ -1,5 +1,3 @@
-# ModelGraphBuilder
-To build a RNN model graph based on yaml configure file.
 Usage:
 1. Put your yaml file into the 'yaml' folder of this project
 2. Reach the directory of the project and run "python YamlGraphBuilder.py yourfilename", for example, "python YamlGraphBuilder.py jack_qa.yaml"
@@ -13,4 +11,4 @@ Pay attention to:
 For further improvement:
 1. Enrich the style of graphs to look gracefully
 2. Show more information in configure files like model parameters
-2. For making interactive graph, I think it is worthy to attempt but can not ensure
+2. For making interactive graph, I think it is worthy to attempt but can not ensure 
